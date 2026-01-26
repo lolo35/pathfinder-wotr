@@ -1,0 +1,44 @@
+{
+  "name": "Underground Cave 5_00",
+  "width": 14700,
+  "height": 6600,
+  "grid": 300,
+  "shiftX": 0,
+  "shiftY": 0,
+  "gridDistance": 5.0,
+  "gridUnits": "ft",
+  "padding": 0.0,
+  "gridColor": "#000000",
+  "gridAlpha": 0.2,
+  "globalLight": true,
+  "darkness": 0.6,
+  "lights": [],
+  "walls": [
+    {
+      "c": [
+        1179,
+        1961,
+        936,
+        2552
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1779,
+        1892,
+        1146,
+        1988
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    }
+  ],
+  "img": null,
+  "foreground": null
+}

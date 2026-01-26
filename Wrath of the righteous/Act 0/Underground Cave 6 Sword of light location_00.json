@@ -1,0 +1,44 @@
+{
+  "name": "Underground Cave 6 Sword of light location_00",
+  "width": 9900,
+  "height": 9000,
+  "grid": 300,
+  "shiftX": 0,
+  "shiftY": 0,
+  "gridDistance": 5.0,
+  "gridUnits": "ft",
+  "padding": 0.0,
+  "gridColor": "#000000",
+  "gridAlpha": 0.2,
+  "globalLight": true,
+  "darkness": 0.6,
+  "lights": [],
+  "walls": [
+    {
+      "c": [
+        5829,
+        1166,
+        6420,
+        1166
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2952,
+        1157,
+        3546,
+        1157
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    }
+  ],
+  "img": null,
+  "foreground": null
+}
