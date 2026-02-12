@@ -1,0 +1,401 @@
+{
+  "name": "04 - Kitchen and pantry - Shield maze",
+  "width": 6000,
+  "height": 6600,
+  "grid": 300,
+  "shiftX": 0,
+  "shiftY": 0,
+  "gridDistance": 5.0,
+  "gridUnits": "ft",
+  "padding": 0.0,
+  "gridColor": "#000000",
+  "gridAlpha": 0.2,
+  "globalLight": true,
+  "darkness": 0.6,
+  "lights": [
+    {
+      "x": 3607,
+      "y": 1340,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 3633,
+      "y": 2221,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 2969,
+      "y": 2226,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 4270,
+      "y": 2190,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 4289,
+      "y": 3969,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 3631,
+      "y": 3972,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 3009,
+      "y": 3976,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 3013,
+      "y": 4769,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 3638,
+      "y": 4779,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 4298,
+      "y": 4790,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 2263,
+      "y": 1883,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 2263,
+      "y": 2825,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 2263,
+      "y": 5023,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 1584,
+      "y": 1210,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 1225,
+      "y": 5029,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 2263,
+      "y": 3767,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.0
+    }
+  ],
+  "walls": [
+    {
+      "c": [
+        2058,
+        5495,
+        3000,
+        5495
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3000,
+        5495,
+        3315,
+        5495
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3315,
+        5495,
+        3627,
+        5495
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        3627,
+        5495,
+        3942,
+        5495
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        1746,
+        1103,
+        2685,
+        1103
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4884,
+        5495,
+        3942,
+        5495
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4884,
+        1103,
+        4884,
+        5183
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4884,
+        5495,
+        4884,
+        5183
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3000,
+        1103,
+        2685,
+        1103
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        3315,
+        1103,
+        4569,
+        1103
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4884,
+        1103,
+        4569,
+        1103
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3315,
+        1103,
+        3000,
+        1103
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        1746,
+        5495,
+        1116,
+        5495
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1746,
+        5495,
+        2058,
+        5495
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1116,
+        1103,
+        1116,
+        5495
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2373,
+        3614,
+        2373,
+        5183
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2373,
+        5495,
+        2373,
+        5183
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2373,
+        3614,
+        2373,
+        3299
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        2373,
+        3299,
+        2373,
+        2984
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        2373,
+        1103,
+        2373,
+        2984
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1116,
+        1103,
+        1746,
+        1103
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    }
+  ],
+  "img": null,
+  "foreground": null
+}
