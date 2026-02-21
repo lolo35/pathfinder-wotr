@@ -46,98 +46,98 @@
       "tintAlpha": 0.0
     },
     {
+      "x": 3682,
+      "y": 4896,
+      "dim": 37.4999962,
+      "bright": 18.7499981,
+      "tintColor": "#FF8200",
+      "tintAlpha": 0.0
+    },
+    {
       "x": 2915,
       "y": 4896,
-      "dim": 25.0,
-      "bright": 12.5,
+      "dim": 37.4999962,
+      "bright": 18.7499981,
       "tintColor": "#FF8200",
       "tintAlpha": 0.0
     },
     {
       "x": 2918,
       "y": 4729,
-      "dim": 25.0,
-      "bright": 12.5,
+      "dim": 37.4999962,
+      "bright": 18.7499981,
+      "tintColor": "#FF8200",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 3685,
+      "y": 4729,
+      "dim": 37.4999962,
+      "bright": 18.7499981,
       "tintColor": "#FF8200",
       "tintAlpha": 0.0
     },
     {
       "x": 2915,
       "y": 3516,
-      "dim": 25.0,
-      "bright": 12.5,
+      "dim": 37.4999962,
+      "bright": 18.7499981,
       "tintColor": "#FF8200",
       "tintAlpha": 0.0
     },
     {
       "x": 3682,
       "y": 3516,
-      "dim": 25.0,
-      "bright": 12.5,
+      "dim": 37.4999962,
+      "bright": 18.7499981,
       "tintColor": "#FF8200",
       "tintAlpha": 0.0
     },
     {
       "x": 2918,
       "y": 3349,
-      "dim": 25.0,
-      "bright": 12.5,
+      "dim": 37.4999962,
+      "bright": 18.7499981,
       "tintColor": "#FF8200",
       "tintAlpha": 0.0
     },
     {
       "x": 3685,
       "y": 3349,
-      "dim": 25.0,
-      "bright": 12.5,
+      "dim": 37.4999962,
+      "bright": 18.7499981,
       "tintColor": "#FF8200",
       "tintAlpha": 0.0
     },
     {
       "x": 3528,
       "y": 1064,
-      "dim": 25.0,
-      "bright": 12.5,
+      "dim": 37.4999962,
+      "bright": 18.7499981,
       "tintColor": "#FF8200",
       "tintAlpha": 0.0
     },
     {
       "x": 3069,
       "y": 1064,
-      "dim": 25.0,
-      "bright": 12.5,
-      "tintColor": "#FF8200",
-      "tintAlpha": 0.0
-    },
-    {
-      "x": 3685,
-      "y": 4729,
-      "dim": 25.0,
-      "bright": 12.5,
-      "tintColor": "#FF8200",
-      "tintAlpha": 0.0
-    },
-    {
-      "x": 3682,
-      "y": 4896,
-      "dim": 25.0,
-      "bright": 12.5,
+      "dim": 37.4999962,
+      "bright": 18.7499981,
       "tintColor": "#FF8200",
       "tintAlpha": 0.0
     },
     {
       "x": 1237,
       "y": 6270,
-      "dim": 25.0,
-      "bright": 12.5,
+      "dim": 37.4999962,
+      "bright": 18.7499981,
       "tintColor": "#FF8200",
       "tintAlpha": 0.0
     },
     {
       "x": 1237,
       "y": 5810,
-      "dim": 25.0,
-      "bright": 12.5,
+      "dim": 37.4999962,
+      "bright": 18.7499981,
       "tintColor": "#FF8200",
       "tintAlpha": 0.0
     },
@@ -152,32 +152,32 @@
     {
       "x": 2170,
       "y": 5328,
-      "dim": 20.0,
-      "bright": 10.0,
+      "dim": 30.0,
+      "bright": 15.0,
       "tintColor": "#FFAD00",
       "tintAlpha": 0.0
     },
     {
       "x": 2170,
       "y": 6683,
-      "dim": 20.0,
-      "bright": 10.0,
+      "dim": 30.0,
+      "bright": 15.0,
       "tintColor": "#FFAD00",
       "tintAlpha": 0.0
     },
     {
       "x": 4429,
       "y": 6683,
-      "dim": 20.0,
-      "bright": 10.0,
+      "dim": 30.0,
+      "bright": 15.0,
       "tintColor": "#FFAD00",
       "tintAlpha": 0.0
     },
     {
       "x": 4429,
       "y": 5328,
-      "dim": 20.0,
-      "bright": 10.0,
+      "dim": 30.0,
+      "bright": 15.0,
       "tintColor": "#FFAD00",
       "tintAlpha": 0.0
     },
@@ -264,8 +264,8 @@
     {
       "x": 1319,
       "y": 1182,
-      "dim": 25.0,
-      "bright": 12.5,
+      "dim": 37.4999962,
+      "bright": 18.7499981,
       "tintColor": "#FFAD00",
       "tintAlpha": 0.0
     },
@@ -283,6 +283,54 @@
       "dim": 20.0,
       "bright": 10.0,
       "tintColor": "#FFAD00",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 4914,
+      "y": 1385,
+      "dim": 37.4999962,
+      "bright": 18.7499981,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 4903,
+      "y": 2028,
+      "dim": 37.4999962,
+      "bright": 18.7499981,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 5223,
+      "y": 2560,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFFFFF",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 4817,
+      "y": 3069,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFFFFF",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 5042,
+      "y": 1069,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFFFFF",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 4588,
+      "y": 1069,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFFFFF",
       "tintAlpha": 0.0
     }
   ],
